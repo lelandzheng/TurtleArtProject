@@ -1,2 +1,2 @@
 # TurtleArtProject
-<ing.src=https://github.com/lelandzheng/TurtleArtProject/blob/master/project.PNG
+<img.src= "https://github.com/lelandzheng/TurtleArtProject/blob/master/project.PNG">
